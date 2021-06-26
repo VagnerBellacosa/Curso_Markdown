@@ -16,14 +16,14 @@ Esta é uma linha de código em PHP.
 Esta é uma linha de código em HTML.
 ~~~
 
->~~~javascript
->Esta é uma linha de código em Javascript.
->~~~
+> "~~~javascript
+> "Esta é uma linha de código em Javascript.
+> "~~~
 
->~~~php
->Esta é uma linha de código em PHP.
->~~~
+> "~~~php
+> "Esta é uma linha de código em PHP.
+> "~~~
 
->~~~html
->Esta é uma linha de código em HTML.
->~~~
+> "~~~html
+> "Esta é uma linha de código em HTML.
+> "~~~
