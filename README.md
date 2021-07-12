@@ -1,5 +1,16 @@
-# Curso_Markdown
-Curso de comandos e estilos em Markdown
+<!-- PROJECT SHIELDS -->
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+# Curso Markdown
+Curso de comandos e estilos em Markdown. 
+
+Meus apontamentos, meus testes e momentos divertidos aprendendo essa marcaçao de estilo, frustrato por nao ter acesso a ediçao de equaçoes.
 
 ## O que é Markdown?
 
@@ -20,3 +31,19 @@ Este projeto contem apontamentos e curiosidade das aulas de Markdown que cursei,
 [Comandos avançados](ListToDo.Md)
 
 [Formate codigo de programa em documentos markdwon](LinhaCodigo.Md)
+
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/VagnerBellacosa/Curso_Markdown.svg?style=for-the-badge
+[contributors-url]: https://github.com/VagnerBellacosa/Curso_Markdown/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/VagnerBellacosa/Curso_Markdown.svg?style=for-the-badge
+[forks-url]: https://github.com/VagnerBellacosa/Curso_Markdown/network/members
+[stars-shield]: https://img.shields.io/github/stars/VagnerBellacosa/Curso_Markdown.svg?style=for-the-badge
+[stars-url]: https://github.com/VagnerBellacosa/Curso_Markdown/stargazers
+[issues-shield]: https://img.shields.io/github/issues/VagnerBellacosa/Curso_Markdown.svg?style=for-the-badge
+[issues-url]: https://github.com/VagnerBellacosa/Curso_Markdown/issues
+[license-shield]: https://img.shields.io/github/license/VagnerBellacosa/Curso_Markdown.svg?style=for-the-badge
+[license-url]: https://github.com/VagnerBellacosa/Curso_Markdown/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/VagnerBellacosa/
+[product-screenshot]: images/capa.png
+
