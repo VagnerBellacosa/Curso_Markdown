@@ -24,13 +24,21 @@ Lembre-se parece Html, mas nao é, uma maneira simples de escrever textos format
 
 Este projeto contem apontamentos e curiosidade das aulas de Markdown que cursei, espero ajudar a todos aqueles que aqui chegarem.
 
-[ConheÇa as origens do Markdown](ComandosMarkdown.Md)
+[Conheça as origens do Markdown](WorkInProgress/ComandosMarkdown.Md)
 
-[Comandos e sintaxe em Makdown](ComandosMarkdown.Md)
+[Comandos e sintaxe em Makdown](WorkInProgress/ComandosMarkdown.Md)
 
-[Comandos avançados](ListToDo.Md)
+[Comandos avançados](WorkInProgress/ListToDo.Md)
 
-[Formate codigo de programa em documentos markdwon](LinhaCodigo.Md)
+[Formate codigo de programa em documentos markdwon](WorkInProgress/LinhaCodigo.Md)
+
+[Trabalho em curso](WorkInProgress)
+
+- [Apontamentos](WorkInProgress/Apontamentos)
+	- Diversos apontamentos encontrados na web
+
+- [Tutoriais](WorkInProgress\Tutoriais)
+	- Apostilas de aula sobre markdown
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/VagnerBellacosa/Curso_Markdown.svg?style=for-the-badge
